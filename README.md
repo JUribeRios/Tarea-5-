@@ -2,5 +2,5 @@
 Este es el Trabajo # 5 de Lenguajes de Programacion,
 Realizado por:
 
-Julian Uribe
+Julian Uribe -------
 Diego Zapata
